@@ -1,5 +1,5 @@
 pool:
-  vmImage: 'ubuntu-20.04' # Hosted Ubuntu 2004
+  vmImage: 'ubuntu-18.04' # Hosted Ubuntu 2004
   demands: maven
 
 steps:
